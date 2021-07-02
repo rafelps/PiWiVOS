@@ -11,7 +11,7 @@ state-of-the-art methods, it works one order of magnitude faster than them, or e
 
 ## Dependencies
 
-This version of the project (updated from the original one due to reproducibility matters) has been build using:
+This version of the project (updated from the original one for better reproducibility) has been build using:
 
 - [Python][python] 3.7
 - [PyTorch][pytorch] 1.8.1 + Torchvision 0.9.1
