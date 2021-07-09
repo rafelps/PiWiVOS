@@ -129,7 +129,7 @@ You can cite our work using:
 
 [scikit-image]: https://scikit-image.org/
 
-[thesis]: https://upcommons.upc.edu/handle/2117/169370?locale-attribute=en
+[thesis]: http://hdl.handle.net/2117/169370
 
 [davis]: https://davischallenge.org/
 
