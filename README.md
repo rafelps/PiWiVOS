@@ -43,7 +43,7 @@ Apart from method-specific parameters, the most important arguments are:
 
 - `--path PATH`: Path to the [DAVIS dataset][davis]. Defaults to `data/DAVIS`.
 - `--model_name ['piwivos', 'piwivosf']`: Name of the model to use. PiWiVOS uses a resnet50 backbone while PiWiVOS-F
-  uses a resnet34 and lower output resolution. See Chapter 5 of the [Thesis][thesis] for more information. Defaults to
+  uses a resnet34 and has lower output resolution. See Chapter 5 of the [Thesis][thesis] for more information. Defaults to
   `'piwivos'`.
 
 The script trains the model from a pre-trained ResNet using the official DAVIS 2017 `train` set, and validates using
