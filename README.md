@@ -106,12 +106,7 @@ You can cite our work using:
 @phdthesis{Palliser Sans_2019,
 	title={Fast Video Object Segmentation by Pixel-Wise Feature Comparison},
 	url={http://hdl.handle.net/2117/169370},
-	abstractNote={This final degree thesis tackles the task of One-Shot Video Object Segmentation, where multiple
-	    objects have to be separated from the background only having the ground truth masks for them in the very 
-	    first frame. Their large pose and scale variations throughout the sequence, and the occlusions happening 
-	    between them make this task very difficult to solve. Fast Video Object Segmentation by Pixel-Wise Feature 
-	    Comparison goes a step further, and besides achieving comparable results with state-of-the-art methods, it 
-	    works one order of magnitude faster than them, or even two in some cases.},
+	abstractNote={This final degree thesis tackles the task of One-Shot Video Object Segmentation, where multiple objects have to be separated from the background only 			having the ground truth masks for them in the very first frame. Their large pose and scale variations throughout the sequence, and the occlusions happening 			between them make this task very difficult to solve. Fast Video Object Segmentation by Pixel-Wise Feature Comparison goes a step further, and besides achieving 		comparable results with state-of-the-art methods, it works one order of magnitude faster than them, or even two in some cases.},
 	school={UPC, Centre de Formació Interdisciplinària Superior, Departament de Teoria del Senyal i Comunicacions},
 	author={Palliser Sans, Rafel},
 	year={2019},
